@@ -1,0 +1,8 @@
+/vendor
+.idea/
+target/
+.gopath~/
+bin/
+.vscode/
+main
+k8s-tools-gen
